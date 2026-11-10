@@ -200,9 +200,8 @@ On the server side, `read_token()` verifies the signature correctly and only acc
 If players get stuck, release hints in this order:
 
 1. "Look at what the server gives you when you log in."
-2. "Cookies that start with `eyJ` are worth a closer look."
-3. "Search for what `eyJ` means."
-4. "A JWT has three parts. Try decoding the middle one."
+2. "Search the Headers" [Headers contain the hint as 'X-Hint-3']
+3. "Cookies that start with `eyJ` are worth a closer look."
 
 ---
 
