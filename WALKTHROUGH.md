@@ -195,7 +195,7 @@ On the server side, `read_token()` verifies the signature correctly and only acc
 
 ---
 
-## 7. Hint ladder for organizers
+## 7. Hint ladder for players
 
 If players get stuck, release hints in this order:
 
